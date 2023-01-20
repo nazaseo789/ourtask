@@ -79,13 +79,6 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 
 
-    <Footer />
-
-    
-
-    
-</body>
-
 
 
 

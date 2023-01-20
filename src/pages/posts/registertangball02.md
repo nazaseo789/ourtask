@@ -84,21 +84,5 @@ https ufa2499.automebet ufa2499 ufabet login openexternalbrowser 1ufarich888 ufa
 
 
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-22dbebde-641c-4627-906d-02171d60303d"></div>
-
-  <section class="flex space-x-8 justify-center text-xl pt-8 font-bold">
-    <a href="/posts" class="mr-8" data-test="see-all-link">
-      See All<span class="squiggle">&rarr;</span>
-    </a>
-  </section>
-    <Footer />
-
-    
-
-    
-</body>
-
-
 
 
