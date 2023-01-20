@@ -79,7 +79,11 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 
 
+บทความอ้างอิง [เว็บตรง](https://www.ourtask.org/)
 
+บทความอ้างอิง [สมัครสล็อต pg](https://www.ourtask.org/posts/registerpg/)
+
+บทความอ้างอิง [mvpjet](https://mvpjet.netlify.app/)
 
 
 
