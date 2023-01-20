@@ -77,7 +77,7 @@ sao ภาค 3 ตอนที่ 5sagame 168 vipบาคาร่าวอเ
 
 บทความอ้างอิง [เว็บตรง](https://www.ourtask.org/)
 
-บทความอ้างอิง [สมัครบาคาร่า](registerbaccarat.md)
+บทความอ้างอิง [สมัครบาคาร่า](https://www.ourtask.org/posts/registerbaccarat.org)
 
 บทความอ้างอิง [mvpzapp](https://mvpzapp.com/)
 
