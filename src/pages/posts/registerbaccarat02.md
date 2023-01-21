@@ -99,7 +99,8 @@ www.บาคาร่า888 sa บาคาร่า เครดิตฟร�
 บทความอ้างอิง [sanook](https://sanook.com/)
 
 
-
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-22dbebde-641c-4627-906d-02171d60303d"></div>
 
 
 
