@@ -100,7 +100,7 @@ www.บาคาร่า888 sa บาคาร่า เครดิตฟร�
 
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-22dbebde-641c-4627-906d-02171d60303d"></div>
+<div class="elfsight-app-e1aa2dba-e22c-4452-a151-77fa6b061dee"></div>
 
 
 

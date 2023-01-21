@@ -86,3 +86,5 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-e1aa2dba-e22c-4452-a151-77fa6b061dee"></div>
