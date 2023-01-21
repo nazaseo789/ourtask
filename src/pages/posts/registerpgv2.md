@@ -86,7 +86,8 @@ layout: "../../layouts/BlogPostLayout.astro"
 บทความอ้างอิง [mvpjet](https://mvpjet.netlify.app/)
 
 
-
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-22dbebde-641c-4627-906d-02171d60303d"></div>
 
 
 

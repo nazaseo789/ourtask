@@ -80,13 +80,14 @@ https ufa2499.automebet ufa2499 ufabet login openexternalbrowser 1ufarich888 ufa
 
 บทความอ้างอิง [เว็บตรง](https://www.ourtask.org/)
 
-บทความอ้างอิง [สมัครสล็อต pg](https://www.ourtask.org/posts/registerpg/)
+บทความอ้างอิง [สมัครเว็บตรง](https://www.ourtask.org/posts/registerwebtong/)
 
 บทความอ้างอิง [mvpregisterpg](https://mvpregisterpg02.netlify.app/)
 
 
 
 
-
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-22dbebde-641c-4627-906d-02171d60303d"></div>
 
 
