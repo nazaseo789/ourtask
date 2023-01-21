@@ -9,7 +9,7 @@ interface MarkdownFrontmatter {
   date: number;
 }
 
-const title = 'OURTASK Pg เว็บตรง ไม่มี ขั้นต่ำ ไม่ผ่านเอเย่นต์ 2023 มาใหม่';
+const title = 'OURTASK Pg เว็บตรง 2022 ไม่มี ขั้นต่ำ ไม่ผ่านเอเย่นต์ 2023 มาใหม่';
 const description = 'สมัครวันนี้รับไปเลย ฝาก100 รับ 150 กับสมาชิกหน้าใหม่';
 const seoDescription = 'เล่นกับเว็บพนันออนไลน์เว็บตรงไม่ผ่านเอเย่นต์ที่ดีสุด ราคาน้ำเริ่ดสุดและคุ้มค่า รับทั้งวอเลทและธนาคารต้องที่นี่เลย';
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
@@ -51,7 +51,6 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valu
     </script>
 
 
-  <meta name="google-site-verification" content="KXzaGoaO8usaOBiMRvjlFA9gHW1WFWI6vo9EeSLXxQo" />
     <meta charset="utf-8" />
     <meta name="viewport:" content="width=device-width, initial-scale=1">
   <BaseHead title={title} description={seoDescription} />
