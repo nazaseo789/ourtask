@@ -18,7 +18,7 @@ layout: "../../layouts/BlogPostLayout.astro"
       "@type": "Article",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://ourtask.org/posts/registerpg/"
+        "@id": "https://www.ourtask.org/posts/registerpg/"
       },
       "headline": "สมัครเกมสล็อต ค่าย pg ฟรี เครดิต ฟรี กด รับ เอง 68",
       "image": "https://i.postimg.cc/MpH1dCfg/17.jpg",  
@@ -80,7 +80,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 บทความอ้างอิง [เว็บตรง](https://www.ourtask.org/)
 
-บทความอ้างอิง [สมัครสล็อต pg](https://www.ourtask.org/posts/registerpg/)
+บทความอ้างอิง [สมัครสล็อต pg](https://www.ourtask.org/posts/registerxo/)
 
 บทความอ้างอิง [naza789](https://naza789.net/)
 
