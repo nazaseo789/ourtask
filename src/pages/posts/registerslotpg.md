@@ -49,9 +49,9 @@ layout: "../../layouts/BlogPostLayout.astro"
   
   <BaseHead title={title} description={seoDescription} />
   <meta name="robots" content= "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
-  <link rel="canonical" href="https://www.ourtask.org/posts/registerpg/" />
+  <link rel="canonical" href="https://www.ourtask.org/posts/registerslotpg/" />
 </head>
-<body class="bg-white text-black font-body leading-normal personality-casual">
+<body class="bg-white text-black font-body lesading-normal personality-casual">
   <Nav />
 
   <main class="py-12 lg:py-20">
