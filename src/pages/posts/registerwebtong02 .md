@@ -93,7 +93,7 @@ ufa98สมัครแทงบอลออนไลน์jdbเครดิต
 
 บทความอ้างอิง [เว็บตรง](https://www.ourtask.org/)
 
-บทความอ้างอิง [สมัครสล็อต pg](https://www.ourtask.org/posts/registerpg/)
+บทความอ้างอิง [สมัครสล็อต pg](https://mvpregisterpg.netlify.app/)
 
 บทความอ้างอิง [สมัครเว็บตรง](https://www.ourtask.org/posts/registerwebtong02/)
 
