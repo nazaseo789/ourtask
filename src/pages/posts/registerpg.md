@@ -80,9 +80,12 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 บทความอ้างอิง [เว็บตรง](https://www.ourtask.org/)
 
-บทความอ้างอิง [สมัครสล็อต pg](https://www.ourtask.org/posts/registerxo/)
+บทความอ้างอิง [สมัครสล็อต xo](https://www.ourtask.org/posts/registerxo/)
 
-บทความอ้างอิง [naza789](https://naza789.net/)
+บทความอ้างอิง [เว็บพนันออนไลน์](https://coltsauthorizedshop.com/)
+
+บทความอ้างอิง [สมัครสล็อต pg](https://mvpregisterpg.netlify.app/)
+
 
 
 
