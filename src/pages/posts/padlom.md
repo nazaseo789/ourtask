@@ -3,7 +3,7 @@ title: "พัดลม "
 pubDate: "2023-01-31"
 slug: "padlom"
 description: "."
-hero: "https://i.postimg.cc/1tHsBKJZ/31.jpg"
+hero: ""
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
