@@ -51,7 +51,7 @@ layout: "../../layouts/BlogPostLayout.astro"
   
   <BaseHead title={title} description={seoDescription} />
   <meta name="robots" content= "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
-  <link rel="canonical" href="https://www.ourtask.org/posts/register-pg/" />
+  
 </head>
 <body class="bg-white text-black font-body leading-normal personality-casual">
   <Nav />

@@ -50,11 +50,9 @@ layout: "../../layouts/BlogPostLayout.astro"
   
   <BaseHead title={title} description={seoDescription} />
   <meta name="robots" content= "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
-  <link rel="canonical" href="https://www.ourtask.org/posts/registerslotpg/" />
+  
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PDNV0TDKY7"></script>
-<script>
+
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
