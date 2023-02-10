@@ -94,11 +94,28 @@ layout: "../../layouts/BlogPostLayout.astro"
 
   <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลม" src="https://xn--m3cisqgb6aza1f7e6cq.com/wp-content/uploads/2022/12/register-gmz.gif" /></a><br />
 
-  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลมมือสอง" src="https://xn--m3cisqgb6aza1f7e6cq.com/wp-content/uploads/2022/12/register-gmz.gif" /></a><br />
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลมมือสอง" src="https://i.postimg.cc/rwynXgNC/1536x438-300.jpg" /></a><br />
 
-  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลม" src="https://xn--m3cisqgb6aza1f7e6cq.com/wp-content/uploads/2022/12/register-gmz.gif" /></a><br />
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลม" src="https://i.postimg.cc/Dyps0gKc/1536x438-500.jpg" /></a><br />
 
-  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลมตั้งโต๊ะ" src="https://xn--m3cisqgb6aza1f7e6cq.com/wp-content/uploads/2022/12/register-gmz.gif" /></a><br />
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลมตั้งโต๊ะ" src="https://i.postimg.cc/6qTgXcXm/2.gif" /></a><br />
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลมตั้งโต๊ะ" src="https://i.postimg.cc/TwQ1Sddc/2.gif" /></a><br />
+
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลมตั้งโต๊ะ" src="https://i.postimg.cc/jjMrYLfC/image.gif" /></a><br />
+
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลมตั้งโต๊ะ" src="https://i.postimg.cc/BtfvPXM4/1-1-2.gif" /></a><br />
+
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลมตั้งโต๊ะ" src="https://i.postimg.cc/hvRF9w7R/1.gif" /></a><br />
+
+
+  
+
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="พัดลมตั้งโต๊ะ" src="https://i.postimg.cc/cJvcdLkX/image.gif" /></a><br />
 
 
 ## พัดพาสายลมแห่งความปังสู่คุณพัดลม hatari รีโมทติด ตั้ง พัดลม เพดานพัดลม ยูเอส บีพัดลม น้ํา แข็ง 
