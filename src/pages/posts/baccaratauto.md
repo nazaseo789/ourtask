@@ -1,6 +1,6 @@
 ---
-title: "บาคาร่าออโต้ biogamevipโปรแกรมวิเคราะห์ สล็อตl hv9สล็อตล่าสุดค่าย เกม pragmatic "
-pubDate: "2023-01-31"
+title: "บาคาร่าออโต้ biogamevipโปรแกรมวิเคราะห์ สล็อตl hv9สล็อตล่าสุดค่าย เกม pragmatic"
+pubDate: "2023-02-15"
 slug: "baccaratauto"
 description: "."
 hero: "https://i.postimg.cc/mZCMwKvP/128.jpg"
@@ -36,7 +36,7 @@ layout: "../../layouts/BlogPostLayout.astro"
           "url": ""
         }
       },
-      "datePublished": "2023-01-31"
+      "datePublished": "2023-02-15"
     }
     
     </script>
