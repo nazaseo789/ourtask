@@ -10,36 +10,6 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 <html lang="TH">
 
-<head>
-  
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://ourtask.org/posts/baccaratauto/"
-      },
-      "headline": "บาคาร่าออโต้ biogamevipโปรแกรมวิเคราะห์ สล็อตl hv9สล็อตล่าสุดค่าย เกม pragmatic ",
-      "image": "https://i.postimg.cc/mZCMwKvP/128.jpg",  
-      "InLanguage": "TH",    
-      "description": ".",  
-      "author": {
-        "@type": "Person",
-        "name": "southblade"
-      },  
-      "publisher": {
-        "@type": "Organization",
-        "name": "",
-        "logo": {
-          "@type": "ImageObject",
-          "url": ""
-        }
-      },
-      "datePublished": "2023-02-15"
-    }
-    
-    </script>
 
 
 

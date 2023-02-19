@@ -12,34 +12,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 <head>
   
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://ourtask.org/posts/lenslot/"
-      },
-      "headline": "Pg เว็บตรง ไม่มี ขั้นต่ำ ไม่ผ่านเอเย่นต์ 2023 มาใหม่",
-      "image": "https://i.postimg.cc/FKLvgKrz/22.jpg",  
-      "InLanguage": "TH",    
-      "description": "สล็อต pg เว็บไซต์ตรง เว็บพนันไม่ผ่านเอเย่นต์ฝากถอนไม่มีอย่างต่ำ สล็อตออนไลน์ pg slot เว็บไซต์ตรง ซึ่งเป็นอีกหนึ่งเกมที่เป็นของทางค่าย Slot pg เว็บไซต์ตรง นั้นเอง",  
-      "author": {
-        "@type": "Person",
-        "name": "southblade"
-      },  
-      "publisher": {
-        "@type": "Organization",
-        "name": "",
-        "logo": {
-          "@type": "ImageObject",
-          "url": ""
-        }
-      },
-      "datePublished": "2023-01-15"
-    }
-    
-    </script>
+  
 
 
 

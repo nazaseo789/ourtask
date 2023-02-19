@@ -12,34 +12,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 <head>
   
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.ourtask.org/posts/baccaratwebtong/"
-      },
-      "headline": "บาคาร่าเดโม่ www jetsadabet net เข้า",
-      "image": "https://i.postimg.cc/tRrJh8mn/10.jpg",  
-      "InLanguage": "TH",    
-      "description": "sao ภาค 3 ตอนที่ 5sagame 168 vipบาคาร่าวอเล็ทprettybaccarat88sa บา คา ร่า ออนไลน์dg บาคาร่าเทคนิค บาคาร่าsagame 365สูตรบาคาร่า sexyjesada หวยsagame 999",  
-      "author": {
-        "@type": "Person",
-        "name": "southblade"
-      },  
-      "publisher": {
-        "@type": "Organization",
-        "name": "",
-        "logo": {
-          "@type": "ImageObject",
-          "url": ""
-        }
-      },
-      "datePublished": "2023-01-20"
-    }
-    
-    </script>
+  
 
 
 

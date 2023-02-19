@@ -12,34 +12,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 <head>
   
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://ourtask.org/posts/findwebslot/"
-      },
-      "headline": "หาเว็บสล็อต ฟู ฟ่า 89เครดิตฟรีไม่ต้องฝากไม่ต้องแชร์ 2022 กดรับเอง",
-      "image": "https://i.postimg.cc/SxNKygyn/101.jpg",  
-      "InLanguage": "TH",    
-      "description": ".",  
-      "author": {
-        "@type": "Person",
-        "name": "southblade"
-      },  
-      "publisher": {
-        "@type": "Organization",
-        "name": "",
-        "logo": {
-          "@type": "ImageObject",
-          "url": ""
-        }
-      },
-      "datePublished": "2023-01-30"
-    }
-    
-    </script>
+  
 
 
 

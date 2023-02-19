@@ -9,37 +9,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 ---
 
 <html lang="TH">
-
 <head>
-  
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.ourtask.org/posts/registerwebtongnolimit/"
-      },
-      "headline": "สมัครเว็บตรงเล่นที่นี่ไม่มีขั้นต่ำฝากถอนสบาย รับวอเลทและธนาคาร2022-2023",
-      "image": "https://i.postimg.cc/Fs29D1mW/102.jpg",  
-      "InLanguage": "TH",    
-      "description": ".",  
-      "author": {
-        "@type": "Person",
-        "name": "southblade"
-      },  
-      "publisher": {
-        "@type": "Organization",
-        "name": "",
-        "logo": {
-          "@type": "ImageObject",
-          "url": ""
-        }
-      },
-      "datePublished": "2023-02-05"
-    }
-    
-    </script>
 
 
 
