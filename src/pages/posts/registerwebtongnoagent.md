@@ -33,55 +33,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 <head>
   
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.ourtask.org/posts/baccaratwebtong/"
-      },
-      "headline": "สมัครเว็บตรงไม่ผ่านเอเย่นต์ สล็อต tiger
-www.ufa6666 .com",
-      "image": "https://i.postimg.cc/fRgmrXtK/10.jpg",  
-      "InLanguage": "TH",    
-      "description": "สล็อต tiger
-www.ufa6666 .com
-รูปไหน
-ช่องทางเข้าufabet
-เว็บบาคาร่าที่น่าเชื่อถือ
-ae bet เครดิตฟรี 50
-https//www.ufabet.com/
-ลงรูปในเฟสให้ชัด iphone 2021
-ยู ฟ่า เบ ท 88
-money train 2 เว็บตรง
-ufa191 login
-แทงบอลเว็บไหนดี
-www pgslot168.com
-การ เล่น แฮนด์บอล
-เว็บตรงฝากถอน ไม่มี ขั้นต่ํา 1 บาทก็ ถอนได้
-เกม วัววัว
-รอย สัก ปลา คาบ
-ตะกร้อถ่ายทอดสด
-พรุ่งนี้ ไป ไหน ดี
-พนันกีฬาออนไลน์
-สล็อต เบ ท 1 บาท เว็บตรง",  
-      "author": {
-        "@type": "Person",
-        "name": "southblade"
-      },  
-      "publisher": {
-        "@type": "Organization",
-        "name": "",
-        "logo": {
-          "@type": "ImageObject",
-          "url": ""
-        }
-      },
-      "datePublished": "2023-01-20"
-    }
-    
-    </script>
+ 
 
 
 
@@ -102,6 +54,29 @@ www pgslot168.com
 
   <a href="https://nazavip.com/26174/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="สมัครเว็บตรงไม่ผ่านเอเย่นต์" src="https://xn--m3cisqgb6aza1f7e6cq.com/wp-content/uploads/2022/12/register-gmz.gif" /></a><br />
 
+<a href="https://nazavip.com/26174/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="สมัครเว็บตรง" src="https://i.postimg.cc/T37gsGK3/rsz-1promotion.jpg" /></a><br />
+
+<a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="สมัครสล็อต" src="https://i.postimg.cc/rwynXgNC/1536x438-300.jpg" /></a><br />
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="slotเว็บใหญ่" src="https://i.postimg.cc/Dyps0gKc/1536x438-500.jpg" /></a><br />
+
+  
+
+
+
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="slotpg" src="https://i.postimg.cc/jjMrYLfC/image.gif" /></a><br />
+
+
+
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="slotxo" src="https://i.postimg.cc/hvRF9w7R/1.gif" /></a><br />
+
+
+  
+
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="slotroma" src="https://i.postimg.cc/cJvcdLkX/image.gif" /></a><br />
 
 ## สมัครเว็บตรงไม่ผ่านเอเย่นต์ www.ufabet.com หน้าเข้าเล่นนะคะ วิธีเล่นบอท ufa356ฝากtiger
 เข้าเล่นufabet369
