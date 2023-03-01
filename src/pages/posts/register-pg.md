@@ -13,34 +13,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 <head>
   
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.ourtask.org/posts/register-pg/"
-      },
-      "headline": "สมัครเว็บตรง ของดีไม่ผ่านเอเย่นต์ ที่นี่ฝากไม่มีขั้นต่ำมีค่ายสล็อตดัง pg ให้บริการ",
-      "image": "https://i.postimg.cc/1zZ5f6SM/18.jpg",  
-      "InLanguage": "TH",    
-      "description": "นักเสี่ยงโชคท่านใดที่มีความต้องการปั่น สล็อต ลองสมัครpg slot เล่นกับเราสิ แตกง่าย อัพเดททุกเกมและมีโปรโมชั่นเหนือเว็บเจ้าอื่นๆอีกด้วย",  
-      "author": {
-        "@type": "Person",
-        "name": "southblade"
-      },  
-      "publisher": {
-        "@type": "Organization",
-        "name": "",
-        "logo": {
-          "@type": "ImageObject",
-          "url": ""
-        }
-      },
-      "datePublished": "2023-01-18"
-    }
-    
-    </script>
+  
 
 
 
@@ -62,6 +35,31 @@ layout: "../../layouts/BlogPostLayout.astro"
 
   <a href="https://nazavip.com/26174/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="สมัคร slotpg" src="https://xn--m3cisqgb6aza1f7e6cq.com/wp-content/uploads/2022/12/register-gmz.gif" /></a><br />
 
+
+
+<a href="https://nazavip.com/26174/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="สมัครเว็บตรง" src="https://i.postimg.cc/T37gsGK3/rsz-1promotion.jpg" /></a><br />
+
+<a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="สมัครสล็อต" src="https://i.postimg.cc/rwynXgNC/1536x438-300.jpg" /></a><br />
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="slotเว็บใหญ่" src="https://i.postimg.cc/Dyps0gKc/1536x438-500.jpg" /></a><br />
+
+  
+
+
+
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="slotpg" src="https://i.postimg.cc/jjMrYLfC/image.gif" /></a><br />
+
+
+
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="slotxo" src="https://i.postimg.cc/hvRF9w7R/1.gif" /></a><br />
+
+
+  
+
+
+  <a href="https://nazavip.com/31951/t41626o2r59456244323y2m2l464p4" rel="nofollow"><img alt="slotroma" src="https://i.postimg.cc/cJvcdLkX/image.gif" /></a><br />
 
 
 ## ทดลองเล่นสล็อตpg168 ทดลองเล่น pg ฟรี
